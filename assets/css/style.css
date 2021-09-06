@@ -1,0 +1,16 @@
+#TITULO_PRINCIPAL {color: black; text-shadow:2px 1.5px 1.5px grey; font-family:'Times New Roman', Times, serif ;
+}
+#Historia {color:rgb(37, 31, 78); text-shadow:2px 2px 3px rgb(55, 46, 114)
+}
+body{ background-color: rgb(169, 247, 247);
+margin: 20px;
+padding: 20px 30px;
+border: 2px solid black;
+}
+.textoCentrado {text-align: center;
+}
+.textoAzul {color:darkblue
+}
+img{width: 40%;
+    border: 1px dashed gray;
+}
